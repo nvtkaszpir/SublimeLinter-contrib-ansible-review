@@ -1,0 +1,10 @@
+SublimeLinter-contrib-ansible-review
+------------------------------------
+This linter plugin for SublimeLinter provides an interface to ansible-review.
+
+** IMPORTANT! **
+
+Before this plugin will activate, you *must*
+follow the installation instructions here:
+
+https://github.com/nvtkaszpir/SublimeLinter-contrib-ansible-review
