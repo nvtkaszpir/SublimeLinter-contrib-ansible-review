@@ -66,7 +66,7 @@ This package is not in the PackageControl, but you can use it by cloning repo:
 
 ```bash
 cd ~/.config/sublime-text-3/Packages
-git clone https://github.com/nvtkaszpir/SublimeLinter-contrib-doc8
+git clone https://github.com/nvtkaszpir/SublimeLinter-contrib-ansible-review
 ```
 
 After that restart SublimeText.
