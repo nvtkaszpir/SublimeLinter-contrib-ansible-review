@@ -1,7 +1,7 @@
 SublimeLinter-contrib-ansible-review
 ====================================
 
-[![Build Status](https://travis-ci.org/nvtkaszpir/SublimeLinter-contrib-ansible-review.svg?branch=master)](https://travis-ci.org/mliljedahl/SublimeLinter-contrib-ansible-review)
+[![Build Status](https://travis-ci.org/nvtkaszpir/SublimeLinter-contrib-ansible-review.svg?branch=master)](https://travis-ci.org/nvtkaszpir/SublimeLinter-contrib-ansible-review)
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [ansible-review](https://github.com/willthames/ansible-review). It will be used with files that have the “Ansible” syntax.
 
