@@ -11,7 +11,6 @@
 """This module exports the AnsibleReview plugin class."""
 
 from SublimeLinter.lint import Linter, util
-import re
 import logging
 logger = logging.getLogger('SublimeLinter.plugin.ansbile-review')
 
