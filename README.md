@@ -5,6 +5,13 @@ SublimeLinter-contrib-ansible-review
 
 This linter plugin for [SublimeLinter][docs] provides an interface to [ansible-review](https://github.com/willthames/ansible-review). It will be used with files that have the “Ansible” syntax.
 
+## Known limitations
+
+* Messages such as ``WARN: Best practice...`` are not shown, because of they do not match regex. Not to mention
+that some of them are just wrong (for example indentation rules for YAML).
+
+* You must set syntax for given file to be Ansible, and then you can run `Lint this view`.
+
 ## Installation
 SublimeLinter 4 must be installed in order to use this plugin. If SublimeLinter 4 is not installed, please follow the instructions [here][installation].
 
